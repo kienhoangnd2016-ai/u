@@ -1,0 +1,6 @@
+{
+  "name": "Boy vs Girl — Live Arena Studio",
+  "description": "Interactive 3D stylized cyber-neon fighting arena, Unity URP shader/VFX visualizer, and TikTok LIVE LiveBridge gameplay simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
